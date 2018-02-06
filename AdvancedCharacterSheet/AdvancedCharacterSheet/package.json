@@ -1,0 +1,12 @@
+{
+  "name": "advanced-character-sheet",
+  "version": "0.0.0",
+  "description": "AdvancedCharacterSheet",
+  "main": "app.js",
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  },
+  "author": {
+    "name": "Gothic"
+  }  
+}
