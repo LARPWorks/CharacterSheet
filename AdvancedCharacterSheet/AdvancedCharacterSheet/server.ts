@@ -13,4 +13,6 @@ http.createServer(function (req, res) {
     res.write(dummyCharacter.fatherName + '\n');
     res.write(dummyCharacter.motherName + '\n');
     res.end('Hello World\n');
+
+    //call html w/react bits here
 }).listen(port);
